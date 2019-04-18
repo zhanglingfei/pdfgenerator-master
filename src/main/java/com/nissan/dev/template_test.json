@@ -1,0 +1,182 @@
+{"templateName":"test1",
+  "creationDate":"2018-11-27",
+  "creator":"Damien Contreras",
+  "description":"test",
+  "objList": [{
+    "dataMappingId": 1,
+    "type":"test",
+    "text":"日産自動車株式会社　追浜工場品質保証部",
+    "pageNumber":1,
+    "x":7,
+    "y": 700,
+    "width":535,
+    "height":15,
+    "borderLeft":1,
+    "borderTop":0,
+    "borderRight":0,
+    "borderBottom":1,
+    "textColor":"white",
+    "backgroundColorR":221,
+    "backgroundColorG":235,
+    "backgroundColorB":247,
+    "fontSize":14,
+    "fontColorR":221,
+    "fontColorG":221,
+    "fontColorB":221
+  },{
+    "dataMappingId": 2,
+    "type":"cellLabel",
+    "text":"車種",
+    "pageNumber":1,
+    "x":7,
+    "y": 680,
+    "width":50,
+    "height":15,
+    "borderLeft":1,
+    "borderTop":1,
+    "borderRight":1,
+    "borderBottom":1,
+    "isCenter": 1
+  }
+  ,{
+      "dataMappingId": 3,
+      "type":"cellLabel",
+      "text":"車種記号",
+      "pageNumber":1,
+      "x":50,
+      "y": 680,
+      "width":50,
+      "height":15,
+      "borderLeft":1,
+      "borderTop":1,
+      "borderRight":1,
+      "borderBottom":1,
+      "isCenter": 1
+    }
+  ,{
+      "dataMappingId": 4,
+      "type":"cellLabel",
+      "text":"CCR NO. (車両一貫NO)",
+      "pageNumber":1,
+      "x":100,
+      "y": 680,
+      "width":50,
+      "height":15,
+      "borderLeft":1,
+      "borderTop":1,
+      "borderRight":1,
+      "borderBottom":1
+    }
+  ,{
+      "dataMappingId": 5,
+      "type":"cellLabel",
+      "text":"車台番号",
+      "pageNumber":1,
+      "x":150,
+      "y": 680,
+      "width":50,
+      "height":15,
+      "borderLeft":1,
+      "borderTop":1,
+      "borderRight":1,
+      "borderBottom":1
+    }
+  ,{
+      "dataMappingId": 6,
+      "type":"cellLabel",
+      "text":"カラー",
+      "pageNumber":1,
+      "x":200,
+      "y": 680,
+      "width":50,
+      "height":15,
+      "borderLeft":1,
+      "borderTop":1,
+      "borderRight":1,
+      "borderBottom":1
+    }
+  ,{
+      "dataMappingId": 7,
+      "type":"cellLabel",
+      "text":"内張",
+      "pageNumber":1,
+      "x":250,
+      "y": 680,
+      "width":50,
+      "height":15,
+      "borderLeft":1,
+      "borderTop":1,
+      "borderRight":1,
+      "borderBottom":1
+    }
+  ,{
+      "dataMappingId": 8,
+      "type":"cellLabel",
+      "text":"仕向地",
+      "pageNumber":1,
+      "x":300,
+      "y": 680,
+      "width":50,
+      "height":15,
+      "borderLeft":1,
+      "borderTop":1,
+      "borderRight":1,
+      "borderBottom":1
+    }
+  ,{
+      "dataMappingId": 9,
+      "type":"cellLabel",
+      "text":"型式",
+      "pageNumber":1,
+      "x":350,
+      "y": 680,
+      "width":50,
+      "height":15,
+      "borderLeft":1,
+      "borderTop":1,
+      "borderRight":1,
+      "borderBottom":1
+    }
+  ,{
+      "dataMappingId": 10,
+      "type":"cellLabel",
+      "text":"原動機型式 電動機型式",
+      "pageNumber":1,
+      "x":400,
+      "y": 680,
+      "width":50,
+      "height":15,
+      "borderLeft":1,
+      "borderTop":1,
+      "borderRight":1,
+      "borderBottom":1
+    }
+  ,{
+      "dataMappingId": 11,
+      "type":"cellLabel",
+      "text":"EX－NO",
+      "pageNumber":1,
+      "x":450,
+      "y": 680,
+      "width":50,
+      "height":15,
+      "borderLeft":1,
+      "borderTop":1,
+      "borderRight":1,
+      "borderBottom":1
+    }
+  ,{
+      "dataMappingId": 12,
+      "type":"cellLabel",
+      "text":"ラインNO",
+      "pageNumber":1,
+      "x":500,
+      "y": 680,
+      "width":50,
+      "height":15,
+      "borderLeft":1,
+      "borderTop":1,
+      "borderRight":1,
+      "borderBottom":1
+    }
+  ]}
